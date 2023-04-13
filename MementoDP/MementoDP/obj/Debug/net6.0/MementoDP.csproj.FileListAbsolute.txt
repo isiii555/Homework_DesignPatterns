@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\bin\Debug\net6.0\MementoDP.exe
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\bin\Debug\net6.0\MementoDP.deps.json
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\bin\Debug\net6.0\MementoDP.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\bin\Debug\net6.0\MementoDP.dll
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\bin\Debug\net6.0\MementoDP.pdb
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.dll
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\refint\MementoDP.dll
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.pdb
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\MementoDP.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApplication45\MementoDP\MementoDP\obj\Debug\net6.0\ref\MementoDP.dll
